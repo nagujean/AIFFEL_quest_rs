@@ -63,4 +63,5 @@
 - gpt를 마구잡이로 쓰거나 아예 안쓰는게 아니라 딱 본인의 학습에 필요한 정도로, 학습도구로의 역할을 하게끔 사용하시는 것 같은 부분도 인상적.
 
   
-![001]<img width="840" height="334" alt="Ex06_0" src="https://github.com/user-attachments/assets/0767c447-9adf-461c-91a1-b05731e3dd01" />
+
+![00]<img width="840" height="334" alt="Ex06_0" src="https://github.com/user-attachments/assets/2e93629f-a48c-4217-9495-e2f8c1cd720f" />
