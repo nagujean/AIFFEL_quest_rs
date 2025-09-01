@@ -27,6 +27,7 @@
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 <img width="899" height="805" alt="image" src="https://github.com/user-attachments/assets/60ebcf71-345e-4bbe-b801-1cf984893ec3" />
+
 - LSTM으로 실험 후 CNN으로 추가 실험
 
         
@@ -44,6 +45,7 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
 <img width="891" height="885" alt="image" src="https://github.com/user-attachments/assets/7ab8625c-46a1-4cd8-a7d7-2c32ce3389bc" />
 <img width="722" height="406" alt="image" src="https://github.com/user-attachments/assets/0986e8b2-2533-4d76-b04c-de7c9be0ac9d" />
+
 - 자료구조, 함수, 클래스화 하여 코딩함
 
 
