@@ -28,7 +28,7 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부  
     
      각 학습 epoch 이후에 손실 함수 값뿐만 아니라 생성된 답변 예시와 attention map도 함께 출력되었습니다.  
-      ![학습 결과](https://github.com/averksuu/AIFFEL_quest_rs10/blob/main/GoingDeeper/Quest05/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-11%20105540.png)
+      ![학습 결과](https://github.com/averksuu/AIFFEL_quest_rs10/blob/main/GoingDeeper/Quest05/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-11%20105540.png)
         
 - [x]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
@@ -37,7 +37,7 @@
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부  
     
     각 실험마다 느낀 점을 포함하여 개인적인 소감까지 담은 상세한 회고가 작성되었습니다.  
-      ![회고 결과](https://github.com/averksuu/AIFFEL_quest_rs10/blob/main/GoingDeeper/Quest05/pictures/%D0%A1%D0%BD%D0%98%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-11%20105508.png)
+      ![회고 결과](https://github.com/averksuu/AIFFEL_quest_rs10/blob/main/GoingDeeper/Quest05/pictures/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202025-09-11%20105508.png)
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
